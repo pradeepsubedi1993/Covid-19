@@ -1,3 +1,4 @@
+Project Description: Developing the NAO robot to spread the Coronavius awareness to the public. 
 # Covid-19 Team Members 
 Pawr Dip ST20023988
 Owen Sanders - ST20120391 
